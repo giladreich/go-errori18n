@@ -1,0 +1,3 @@
+ERR_SIMPLE: "Simple error message"
+ERR_VARIADIC: "Variadic error message: Float: [%f], Int: [%d], String: [%s], Slice: [%v], Struct: [%+v]"
+ERR_DIVIDE_BY_ZERO: "Cannot divide %d by zero"
